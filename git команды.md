@@ -144,30 +144,30 @@ push. При первом её использовании нужна автор�
 
 Работаем в терминале: добавляем файлы в индекс, делаем коммит и отправляем ветку на удалённый репозиторий.
 
-```bash
+ >"`bash
 git add .
 git commit -m "создан файл readme.md"
 git push
-```
+`"
 
 Если ветка новая, обычный `git push` выдаст ошибку:
 
-```
+ >"`
 fatal: The current branch new has no upstream branch.
-```
+`"
 
 В этом случае пушим командой с указанием upstream:
 
-```bash
+ >"`bash
 git push --set-upstream origin new
-```
+`"
 
 После этого в выводе терминала GitHub сам подскажет ссылку для создания PR:
 
-```
+ >"`
 remote: Create a pull request for 'new' on GitHub by visiting:
 remote:      https://github.com/accrust42-dev/git/pull/new/new
-```
+`"
 
 ![Изображение](img/pr-2-push.png)
 
