@@ -176,7 +176,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 На странице репозитория появляется баннер с кнопкой **Compare & pull request** - жмём её.
 
-![Изображение]((https://github.com/NOOOYYEEY/git/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/%D0%BB%D0%BE%D0%BB%203.png))
+![Изображение](https://github.com/NOOOYYEEY/git/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/%D0%BB%D0%BE%D0%BB%203.png)
 
 3. Заполняем форму и создаём PR
 
@@ -188,8 +188,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 Заполняем **Add a title** (кратко, что сделано) и **Add a description** (подробности), затем жмём зелёную кнопку **Create pull request**.
 
-![Изображение](img/pr-1-create.png)
 
-> 💡 Галочка **Allow edits by maintainers** разрешает владельцу репозитория самому править вашу ветку - обычно её оставляют включённой.
+> Галочка **Allow edits by maintainers** разрешает владельцу репозитория самому править вашу ветку - обычно её оставляют включённой.
 
-Готово - PR создан, осталось дождаться, пока его посмотрят и смержат в основную ветку.
+ВСЕ!
