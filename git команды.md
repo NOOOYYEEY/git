@@ -169,7 +169,8 @@ remote: Create a pull request for 'new' on GitHub by visiting:
 remote:      https://github.com/accrust42-dev/git/pull/new/new
 `"
 
-![Изображение]([img/pr-2-push.png](https://github.com/NOOOYYEEY/git/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/%D0%BB%D0%BE%D0%BB%202.png))
+
+![Изображение]((https://github.com/NOOOYYEEY/git/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/%D0%BB%D0%BE%D0%BB%202.png))
 
 2. Переходим к созданию PR
 
