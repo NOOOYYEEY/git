@@ -176,7 +176,7 @@ remote:      https://github.com/accrust42-dev/git/pull/new/new
 
 На странице репозитория появляется баннер с кнопкой **Compare & pull request** - жмём её.
 
-![Изображение]()
+![Изображение]((https://github.com/NOOOYYEEY/git/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/%D0%BB%D0%BE%D0%BB%203.png))
 
 3. Заполняем форму и создаём PR
 
